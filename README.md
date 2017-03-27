@@ -1,6 +1,7 @@
 Day 1: SQL Basics & Advanced SQL Queries
-
+  
   [X] Complete the SQL Basics course
+  
   [X] Complete the Advanced SQL queries course
 
 Day 2: Relational Queries
